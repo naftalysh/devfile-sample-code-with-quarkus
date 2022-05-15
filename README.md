@@ -1,5 +1,7 @@
 # code-with-quarkus project
 
+(Nafta & Kasem) - Update for testing updates
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 ff
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ 
